@@ -1,0 +1,6 @@
+Échantillons de piano : Salamander Grand Piano V3, par Alexander Holm.
+Licence Creative Commons Attribution 3.0 (CC BY 3.0) : https://creativecommons.org/licenses/by/3.0/
+
+Sélection d'une note sur trois demi-tons (A0, C1, Ds1, Fs1, A1 … C8), convertie en MP3 par le projet Tone.js :
+https://github.com/Tonejs/audio/tree/master/salamander
+Fichiers non modifiés.

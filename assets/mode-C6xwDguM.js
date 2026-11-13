@@ -1,0 +1,1 @@
+function e(e){return new URL(`./`+e,document.baseURI).href}export{e as t};
