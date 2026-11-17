@@ -1,0 +1,1 @@
+var e=[`slide`,`instant`];function t(e,t,n,r,i){return e===t||n===`instant`||r||i?null:[{transform:`translateX(${t>e?28:-28}px)`,opacity:.55},{transform:`none`,opacity:1}]}export{t as n,e as t};
